@@ -32,7 +32,7 @@
 
 | Player Setup | Win State | Game Board |
 |:---:|:---:|:---:|
-| ![Player Setup](screenshots.zip/screenshot1.png) | ![Win State](screenshots.zip/screenshot2.png) | ![Game Board](screenshots.zip/screenshot3.png) |
+| ![Player Setup](screenshot1.png) | ![Win State](screenshot2.png) | ![Game Board](screenshot3.png) |
 | *Enter custom player names* | *Winner announcement with glow* | *Live game with X & O placed* |
 
 </div>
