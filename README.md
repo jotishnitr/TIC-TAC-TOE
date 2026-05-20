@@ -15,7 +15,7 @@
 
 <br/>
 
-> 🔗 **Live Demo → [YOUR_PROJECT.vercel.app](https://YOUR_PROJECT.vercel.app)**
+> 🔗 **Live Demo → [YOUR_PROJECT.vercel.app](https://tictactoe-one-topaz.vercel.app/)**
 
 > **Zero dependencies. Zero frameworks. Pure web magic.**
 > A polished Tic Tac Toe experience with smooth animations, a persistent scoreboard, and full mobile responsiveness — all in under 300 lines of vanilla code.
