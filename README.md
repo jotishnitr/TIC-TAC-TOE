@@ -91,10 +91,9 @@ tic-tac-toe/
 ├── 🎨 index.css            # Dark theme, animations, responsive CSS
 ├── ⚙️ index.js             # Game logic, event handlers, state management
 ├── 🖼️ icon.png             # App icon (neon XO logo)
-└── 📁 screenshots/
-    ├── screenshot1.png     # Player setup screen
-    ├── screenshot2.png     # Win state
-    └── screenshot3.png     # Live game board
+├── screenshot1.png          # Player setup screen         
+├── screenshot2.png          # Win state
+└── screenshot3.png          # Live game board
 ```
 
 ---
