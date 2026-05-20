@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="stylesheet" href="index.css">
+  <link rel="icon" href="image.png" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+  <link rel="icon" href="icon.png" type="image/x-icon">
+  
+  <title>TIC TAC TOE</title>
+
+</head>
+<body>
+  <h1>TIC TAC TOE</h1>
+
+  <div class="userPanel">
+    <span class="userInfo">
+    <input type="text" id="name1" placeholder="Player-1 name">
+    <input type="text" id="name2" placeholder="Player-2 name">
+    <button class="submit" id="submit-btn" >Submit</button>
+    <p id="alert"></p>
+    </span>
+  </div>
+  <div class="boardPanel-container">
+    <div class="board-panel">
+    <div  id="player1">X-Player 1</div>
+    <div class="vs">vs</div>
+    <div  id="player2">O-Player 2</div>
+    </div>
+  </div>
+  <h2 id="playerMove">X — your move</h2>
+
+  <div class="gamebox-container">
+    <span class="game-box">
+      <div class="row">
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+      </div>
+      <div class="row">
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+      </div>
+      <div class="row">
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+      </div>
+    </span>
+  </div>
+
+  <div class="scoreboard-container">
+    <span class="score-board">
+    <span id="X-points">X wins: </span>
+    <span id="O-points">• O wins: </span>
+    <span id="draw">• Draws: </span>
+    </span>
+  </div>
+
+  <p>—</p>
+
+  <button id="new-game">New Game</button>
+  <script src="index.js"></script>
+
+</body>
+</html>
