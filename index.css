@@ -50,6 +50,7 @@ h1 {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   text-align:center;
+  margin:30px;
 }
 
 .userInfo{
